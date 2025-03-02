@@ -13,6 +13,9 @@ This is a simple car listing application built with **React**. Users can:
 ## Component Hierarchy:
 ![image](https://github.com/user-attachments/assets/2131509f-437c-43ef-afbd-de3ad48522a8)
 
+![image](https://github.com/user-attachments/assets/d31e8540-4343-445e-b8bd-c5d363927b60)
+
+
 ## 🛠 Technologies Used
 * React ⚛️ (for UI components)
 * Tailwind CSS 🎨 (for styling)
